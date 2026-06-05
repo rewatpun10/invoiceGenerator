@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "invoice-generator",
+      "runtimeExecutable": "/bin/bash",
+      "runtimeArgs": ["/Users/rewat/dev/invoice-generator/dev.sh"],
+      "port": 5173
+    }
+  ]
+}
